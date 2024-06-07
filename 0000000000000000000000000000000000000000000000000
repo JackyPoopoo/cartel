@@ -1,8 +1,8 @@
-print("Loading Public Version 1")
+print("Loading Public Version 1.5")
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
 Title = "Untitled Arsenal Script",
-Text = "Loading Public  V1", 
+Text = "Loading Public  V1.5", 
 
 Duration = 10 
 })
